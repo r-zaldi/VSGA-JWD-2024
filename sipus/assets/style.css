@@ -1,0 +1,11 @@
+/* body{
+    padding-left: 20px;
+} */
+
+li.nav-item{
+    background-color: rgb(168, 204, 255);
+}
+
+#content{
+    padding: 20px;
+}
